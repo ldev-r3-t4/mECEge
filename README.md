@@ -1,4 +1,5 @@
 # mECEge
+(pronounced "message")
 Android app capable of sending and receiving messages
 
 ## GUI Design
