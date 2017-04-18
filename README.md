@@ -8,7 +8,7 @@ Android app (pronounced "message") capable of sending and receiving messages
 
 I created automated user interface tests for the front-end of the mECEge app using the instrumented unit test functionality of the Android Studio. The main purpose of the tests are to verify the functionality of the user interfaces like textview and buttons. I also utilized Google's Espresso to write reliable Android UI tests. For the final submission, tests for the front-end and back-end of the app will be combined.
 
-You can find the automated user interface test at
+You can find the test at
 ./app/src/androidTest/java/com/mecege/mecege/InstrumentedTest_mECEge.java
 
 ## How to Run 
